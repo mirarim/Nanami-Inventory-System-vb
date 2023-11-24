@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\bin\Debug\Nanami.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\bin\Debug\Nanami.exe
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\bin\Debug\Nanami.pdb
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\bin\Debug\Nanami.xml
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.exe
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.xml
+c:\users\user\documents\visual studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Nanami\Nanami\obj\Debug\Nanami.delete4.resources
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\bin\Debug\Nanami.exe.config
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.exe
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.xml
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.pdb
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.vbprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.delete4.resources
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.Resources.resources
+C:\Users\user\Downloads\gago\2023\2ndyr\nanami final\Nanami\Nanami\obj\Debug\Nanami.vbproj.GenerateResource.Cache
